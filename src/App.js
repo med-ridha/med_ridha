@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
-      <h2>Author: Med Ridha</h2>
+      <h1>Med Ridha Zemzem</h1>
+      <h2>Coming soon</h2>
     </div>
   );
 }
